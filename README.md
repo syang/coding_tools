@@ -11,6 +11,6 @@
 
 ### Python
 
-**Getting ER Diagram from code:** [PyCharm](http://imgur.com/M7EKuN6)
+**1. Getting ER Diagram from code:** [PyCharm](http://imgur.com/M7EKuN6)
 
 ### Git
