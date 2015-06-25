@@ -3,7 +3,7 @@
 ### Debugging on IRC and sharing
 
 **Sharing screen shot**
-1. [Imgur](http://imgur.com/)
+1. [Imgur](http://imgur.com/M7EKuN6)
 
 **Sharing error message:**
 1. [Pastbin](http://pastebin.com/)
