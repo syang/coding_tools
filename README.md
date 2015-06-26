@@ -19,7 +19,7 @@
 
 [Cucumber](https://cucumber.io/) offers courses at [kickstart academy](http://kickstartacademy.io/).
 
-1. Cucumber for Python has two projects: [Lettuce](http://lettuce.it/) and [Behave](http://pythonhosted.org/behave/)
+1. Cucumber for Python: [Behave](http://pythonhosted.org/behave/) is actively developed/maintained.
 
 2. Cucumber for Golang is [Ginkgo](https://github.com/onsi/ginkgo) and see some other choices there as well.
 
