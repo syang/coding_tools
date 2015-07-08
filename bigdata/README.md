@@ -7,3 +7,5 @@ Druid from Metamarket -- front office BI
 
 - [Google Dremel](http://research.google.com/pubs/pub36632.html)
 - [Apache Drill](https://en.wikipedia.org/wiki/Apache_Drill)
+
+### [Suro](http://techblog.netflix.com/2013/12/announcing-suro-backbone-of-netflixs.html)
